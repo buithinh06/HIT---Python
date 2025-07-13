@@ -29,9 +29,13 @@ Bai1 Python là ngôn ngữ thông dịch hay biên dịch? Tại sao?
 4- Toán tử gán ( =: Gán, +=: Cộng rồi gán, -=: Trừ rồi gán, *=: Nhân rồi gán,  /=: Chia rồi gán	)
 5- Toán tử thuộc tính (in: trong, not in: khong trong)
 6- Toán tử định danh ( is: Cùng tham chiếu đối tượng, is not: Khac doi tuong)
-\\ Mệnh đề điều kiện và vòng lặp
-
-\\ Kiểu dữ liệu True, False
+\\ Mệnh đề điều kiện và vòng lặp :
+Điều kiện: if điều_kiện: #Khối_lệnh elif điều_kiện: #Khối_lệnh else: #Khối_lệnh
+Vòng lặp: For biến in dãy_giá_trị: #Khối_lệnh While điều_kiện : #Khối_lệnh
+\\ Kiểu dữ liệu True, False :
+- Là kiểu logic, chỉ có 2 giá trị True hoặc False.
+- Được dùng trong điều kiện, vòng lặp, kiểm tra.
+- Chú ý một số giá trị được coi là False : 0, 0.0, "", None,...
 
 
 
